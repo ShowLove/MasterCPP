@@ -1,0 +1,4 @@
+/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/rebuild_cache.dir
+/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/edit_cache.dir
+/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/threads_exe.dir
+/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/cpp_practice_exe.dir

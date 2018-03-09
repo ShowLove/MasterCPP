@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosgarzon/Desktop/test folder/CPP/Threads/src/Thread.cpp
+iostream
+-
+string
+-
+thread
+-
+mutex
+-
+unistd.h
+-
+vector
+-
+
