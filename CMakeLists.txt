@@ -28,6 +28,18 @@ file(GLOB THREADS_SOURCES Threads/src/*.cpp)
 #where your executable is, also files you want to include and link
 add_executable(threads_exe ${THREADS_SOURCES})
 
+##########################
+# print from xml 
+#########################
+# add all the source files
+file(GLOB PRINT_FROM_XML PrintFromXml/src/*.cpp)
+
+# add all the header files
+file(GLOB PRINT_FROM_XML_HEADERS PrintFromXml/headers/*.h)
+
+#where your executable is, also files you want to include and link
+add_executable(print_from_xml_exe ${PRINT_FROM_XML} ${PRINT_FROM_XML_HEADERS})
+
 
 
 #####################################################################

@@ -6,17 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/carlosgarzon/Desktop/test folder/CPP/Threads/src/Thread.cpp
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/Threads/src/Thread.cpp
 iostream
 -
-string
+cstdlib
 -
-thread
--
-mutex
--
-unistd.h
--
-vector
+pthread.h
 -
 

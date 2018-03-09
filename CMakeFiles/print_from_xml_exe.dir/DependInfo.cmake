@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/Threads/src/Thread.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/threads_exe.dir/Threads/src/Thread.cpp.o"
+  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/PrintFromXml/src/XmlParser.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/XmlParser.cpp.o"
+  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/PrintFromXml/src/xmltest.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/xmltest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

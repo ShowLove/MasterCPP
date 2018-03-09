@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/StudyConst.cpp" "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/StudyConst.cpp.o"
-  "/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/StudyPointers.cpp" "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/StudyPointers.cpp.o"
-  "/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/Topics.cpp" "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/Topics.cpp.o"
-  "/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/main.cpp" "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/main.cpp.o"
+  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/StudyConst.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/StudyConst.cpp.o"
+  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/StudyPointers.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/StudyPointers.cpp.o"
+  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/Topics.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/Topics.cpp.o"
+  "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/main.cpp" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/cpp_practice_exe.dir/CppPractice/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

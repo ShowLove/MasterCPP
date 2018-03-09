@@ -1,4 +1,5 @@
-/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/rebuild_cache.dir
-/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/edit_cache.dir
-/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/threads_exe.dir
-/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/cpp_practice_exe.dir
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/rebuild_cache.dir
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/edit_cache.dir
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/print_from_xml_exe.dir
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/threads_exe.dir
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/cpp_practice_exe.dir

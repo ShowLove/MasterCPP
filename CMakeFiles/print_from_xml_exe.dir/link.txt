@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/XmlParser.cpp.o CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/xmltest.cpp.o  -o print_from_xml_exe 

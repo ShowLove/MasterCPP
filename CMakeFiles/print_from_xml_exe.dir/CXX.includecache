@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/PrintFromXml/src/XmlParser.cpp
+string
+-
+stack
+-
+iostream
+-
+PrintFromXml/headers/XmlParser.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/PrintFromXml/src/PrintFromXml/headers/XmlParser.h
+
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/PrintFromXml/src/xmltest.cpp
+string
+-
+PrintFromXml/headers/XmlParser.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/PrintFromXml/src/PrintFromXml/headers/XmlParser.h
+iostream
+-
+signal.h
+-
+
+PrintFromXml/headers/XmlParser.h
+string
+-
+vector
+-
+stack
+-
+

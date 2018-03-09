@@ -6,31 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/StudyConst.cpp
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/StudyConst.cpp
 CppPractice/headers/StudyConst.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyConst.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyConst.h
 
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/StudyPointers.cpp
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/StudyPointers.cpp
 CppPractice/headers/StudyPointers.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyPointers.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyPointers.h
 CppPractice/headers/StudyConst.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyConst.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyConst.h
 
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/Topics.cpp
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/Topics.cpp
 CppPractice/headers/Topics.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/Topics.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/Topics.h
 CppPractice/headers/StudyConst.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyConst.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyConst.h
 CppPractice/headers/StudyPointers.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyPointers.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyPointers.h
 
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/main.cpp
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/main.cpp
 CppPractice/headers/StudyConst.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyConst.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyConst.h
 CppPractice/headers/StudyPointers.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/StudyPointers.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/StudyPointers.h
 CppPractice/headers/Topics.h
-/Users/carlosgarzon/Desktop/test folder/CPP/CppPractice/src/CppPractice/headers/Topics.h
+/Users/carlosgarzon/Desktop/test folder/MasterCPP/CppPractice/src/CppPractice/headers/Topics.h
 exception
 -
 iostream

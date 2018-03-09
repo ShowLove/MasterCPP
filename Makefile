@@ -48,10 +48,10 @@ RM = /usr/local/mac-dev-env/cmake-3.9.3/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/carlosgarzon/Desktop/test folder/CPP"
+CMAKE_SOURCE_DIR = "/Users/carlosgarzon/Desktop/test folder/MasterCPP"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/carlosgarzon/Desktop/test folder/CPP"
+CMAKE_BINARY_DIR = "/Users/carlosgarzon/Desktop/test folder/MasterCPP"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles" "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles" "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/carlosgarzon/Desktop/test folder/CPP/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/carlosgarzon/Desktop/test folder/MasterCPP/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -109,6 +109,19 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
+
+#=============================================================================
+# Target rules for targets named print_from_xml_exe
+
+# Build rule for target.
+print_from_xml_exe: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 print_from_xml_exe
+.PHONY : print_from_xml_exe
+
+# fast build rule for target.
+print_from_xml_exe/fast:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/build
+.PHONY : print_from_xml_exe/fast
 
 #=============================================================================
 # Target rules for targets named threads_exe
@@ -244,6 +257,60 @@ CppPractice/src/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_practice_exe.dir/build.make CMakeFiles/cpp_practice_exe.dir/CppPractice/src/main.cpp.s
 .PHONY : CppPractice/src/main.cpp.s
 
+PrintFromXml/src/XmlParser.o: PrintFromXml/src/XmlParser.cpp.o
+
+.PHONY : PrintFromXml/src/XmlParser.o
+
+# target to build an object file
+PrintFromXml/src/XmlParser.cpp.o:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/XmlParser.cpp.o
+.PHONY : PrintFromXml/src/XmlParser.cpp.o
+
+PrintFromXml/src/XmlParser.i: PrintFromXml/src/XmlParser.cpp.i
+
+.PHONY : PrintFromXml/src/XmlParser.i
+
+# target to preprocess a source file
+PrintFromXml/src/XmlParser.cpp.i:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/XmlParser.cpp.i
+.PHONY : PrintFromXml/src/XmlParser.cpp.i
+
+PrintFromXml/src/XmlParser.s: PrintFromXml/src/XmlParser.cpp.s
+
+.PHONY : PrintFromXml/src/XmlParser.s
+
+# target to generate assembly for a file
+PrintFromXml/src/XmlParser.cpp.s:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/XmlParser.cpp.s
+.PHONY : PrintFromXml/src/XmlParser.cpp.s
+
+PrintFromXml/src/xmltest.o: PrintFromXml/src/xmltest.cpp.o
+
+.PHONY : PrintFromXml/src/xmltest.o
+
+# target to build an object file
+PrintFromXml/src/xmltest.cpp.o:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/xmltest.cpp.o
+.PHONY : PrintFromXml/src/xmltest.cpp.o
+
+PrintFromXml/src/xmltest.i: PrintFromXml/src/xmltest.cpp.i
+
+.PHONY : PrintFromXml/src/xmltest.i
+
+# target to preprocess a source file
+PrintFromXml/src/xmltest.cpp.i:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/xmltest.cpp.i
+.PHONY : PrintFromXml/src/xmltest.cpp.i
+
+PrintFromXml/src/xmltest.s: PrintFromXml/src/xmltest.cpp.s
+
+.PHONY : PrintFromXml/src/xmltest.s
+
+# target to generate assembly for a file
+PrintFromXml/src/xmltest.cpp.s:
+	$(MAKE) -f CMakeFiles/print_from_xml_exe.dir/build.make CMakeFiles/print_from_xml_exe.dir/PrintFromXml/src/xmltest.cpp.s
+.PHONY : PrintFromXml/src/xmltest.cpp.s
+
 Threads/src/Thread.o: Threads/src/Thread.cpp.o
 
 .PHONY : Threads/src/Thread.o
@@ -279,6 +346,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... print_from_xml_exe"
 	@echo "... threads_exe"
 	@echo "... cpp_practice_exe"
 	@echo "... CppPractice/src/StudyConst.o"
@@ -293,6 +361,12 @@ help:
 	@echo "... CppPractice/src/main.o"
 	@echo "... CppPractice/src/main.i"
 	@echo "... CppPractice/src/main.s"
+	@echo "... PrintFromXml/src/XmlParser.o"
+	@echo "... PrintFromXml/src/XmlParser.i"
+	@echo "... PrintFromXml/src/XmlParser.s"
+	@echo "... PrintFromXml/src/xmltest.o"
+	@echo "... PrintFromXml/src/xmltest.i"
+	@echo "... PrintFromXml/src/xmltest.s"
 	@echo "... Threads/src/Thread.o"
 	@echo "... Threads/src/Thread.i"
 	@echo "... Threads/src/Thread.s"
